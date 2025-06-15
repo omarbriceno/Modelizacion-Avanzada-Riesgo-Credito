@@ -1,1 +1,1 @@
-"Modelización Avanzada de Riesgo de Crédito con Python" 
+Modelización Avanzada de Riesgo de Crédito con Python
